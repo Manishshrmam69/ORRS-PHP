@@ -38,7 +38,7 @@ project-folder/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Online-Railway-Reservation-System.git
+   [git clone https://github.com/Manishshrmam69/Online-Railway-Reservation-System.git](https://github.com/Manishshrmam69/ORRS-PHP.git)
    ```
 2. Create a database in **phpMyAdmin**.
 3. Import the provided **database.sql** file into your MySQL database.
