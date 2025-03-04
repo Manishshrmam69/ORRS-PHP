@@ -51,7 +51,7 @@ Email: mail@orrs.com
 
 **Database Name: orrsphp**
 
-**Developed by Martin Mbithi Nzilani**
+**Developed by Manish sharma & Abhishek Sharma
 
 **Recommended PHP Version: 5.6, 7.4, 8.1**
 
